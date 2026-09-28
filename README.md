@@ -241,6 +241,6 @@ ScrollMouseIncrement=0.1 ; 滚轮缩放步长
 
 ## showcase
 
-bilibili
+[bilibili](https://www.bilibili.com/video/BV1Q3aG6KECm/)
 
 [gif](https://github.com/CN-CODEGOD/skin/tree/main/screenShot)
