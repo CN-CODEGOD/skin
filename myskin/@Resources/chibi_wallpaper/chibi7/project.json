@@ -1,0 +1,55 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "《饿殍：明末千里行》CG\n这张是真的好看哇\nb站点点关注谢谢喵，孩子真的很想千粉\n写于5.1.2：40的更新：循环有卡顿是软件问题，只能通过手动加长视频时间解决了 现在视频是48s一卡的循环\n写于5.4.22：36：闲的没事顺便加了鼠标拖尾",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"newproperty" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "拖尾颜色",
+				"type" : "color",
+				"value" : "0.8705882352941177 0.9098039215686274 0.6784313725490196"
+			},
+			"newproperty1" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "鼠标拖尾",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty2" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "镜头视差",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.63529 0.58431 0.49804"
+			}
+		},
+		"supportsvideo" : true,
+		"supportsvideoflags" : 1
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Anime" ],
+	"title" : "满穗烟花-带音乐(重下修复占用问题）【B站：光影学艺不精】",
+	"type" : "scene",
+	"version" : 4,
+	"visibility" : "public",
+	"workshopid" : "3236229585",
+	"workshopurl" : "steam://url/CommunityFilePage/3236229585"
+}
