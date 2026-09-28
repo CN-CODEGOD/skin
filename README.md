@@ -236,3 +236,11 @@ ScrollMouseIncrement=0.1 ; 滚轮缩放步长
 
 4. **`myskin/folders_box/folders.ini`**
    - `Folder1` ~ `Folder12` → 你的常用文件夹
+
+
+
+## showcase
+
+bilibili
+
+[gif](https://github.com/CN-CODEGOD/skin/tree/main/screenShot)
